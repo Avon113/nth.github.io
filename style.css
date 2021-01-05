@@ -22,13 +22,14 @@ html {
 
 .question img {
     margin-top: 4rem;
-    width: 16rem;
-    height: 16rem;
+    width: 20rem;
+    height: 20rem;
 }
 
 .question__content {
     line-height: 4rem;
-    font-size: 3rem;
+    font-size: 5rem;
+    margin: 5rem;
 }
 
 .question__btn {
